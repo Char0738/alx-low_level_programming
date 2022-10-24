@@ -11,6 +11,7 @@ size_t print_list(const list_t *h)
 	size_t nelem;
 
 	size_t nelem;
+
 	while (h != NULL)
 	{
 		if (h->str == NULL)
